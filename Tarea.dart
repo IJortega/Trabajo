@@ -18,7 +18,10 @@ void main() {
     print("Ingrse su año de nacimiento:");
     String anioNac = stdin.readLineSync()!;
 
-    
+    print("DATOS PERSONALES:");
+    print("Nmbre completo: " + nom + " " + nom_2 + " " + ape + " " + ape_2);
+    print("Edad: " + edad + " años");
+    print("Año de nacimiento: " + anioNac);
 
     
 }
