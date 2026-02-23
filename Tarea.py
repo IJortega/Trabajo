@@ -16,3 +16,7 @@ edad = input()
 print("Ingrese su año de nacimiento:")
 año_nac = input()
 
+print("DATOS PERSONALES")
+print("Nombre completo: " + nom + " " + nom_2 + " " + ape + " " + ape_2)
+print("Edad: " + edad + " años")
+print("Año de nacimiento: " + año_nac)
